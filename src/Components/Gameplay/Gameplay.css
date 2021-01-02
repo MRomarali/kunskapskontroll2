@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(141, 113, 113);
+}
+.player-card {
+    width:12.5rem;
+    height:12.5rem;
+    margin:1.25rem;
+    border-radius:10%;
+    background-color: #ddd;
+    text-align:center;
+    line-height:12.5rem;
+    position:relative;
+    /* display:inline-block; */
+    border:2px solid #fff;
+    opacity:1;
+    background-repeat: no-repeat;
+    background-position:center center ;
+}
+.danger {
+    color:red;
+}
